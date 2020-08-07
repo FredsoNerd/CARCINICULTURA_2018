@@ -1,0 +1,19 @@
+> cd [diretorio] : change directory
+> cd ../
+> cd ../DIRETORIO
+
+> ls : list directory files and folders
+> ll : lista com mais informações
+> dir : no windows
+
+> mkdir : make directory
+> rmdir : remove directoru
+> rmdir -rf : removes everything
+
+> git clone <link> : downloads repo
+> git add * : adiciona TODAS as alterações como válidas
+> git add [NOME]
+> git commit -m "MENSAGEM" : adiciona as alterações atuais como uma FOTO
+> git push : manda as alterações pra nuvem
+
+> git pull : puxa as alterações da nuvem para local
